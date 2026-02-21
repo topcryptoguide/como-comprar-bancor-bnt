@@ -1,1 +1,3 @@
-# como-comprar-bancor-bnt
+[**Cómo comprar Bancor (BNT)**](https://topcryptoguide.com/como-comprar-bancor-bnt/)
+
+Este artículo explica **cómo comprar Bancor (BNT)**, el token nativo del protocolo Bancor, una plataforma **de finanzas descentralizadas (DeFi)** que permite intercambiar activos con liquidez automática y sin necesidad de un libro de órdenes tradicional. Para adquirir BNT normalmente debes **crear una cuenta en un exchange confiable donde esté listado** (como Binance, KuCoin o Gate.io), **verificar tu identidad** si corresponde y **depositar fondos** mediante transferencia bancaria, tarjeta o stablecoins como USDT antes de ejecutar la compra en el mercado spot. Algunos exchanges también permiten **comprar BNT con tarjeta de crédito/débito** u otros métodos según disponibilidad. Tras la compra, se recomienda **mover los tokens a un wallet seguro** donde controles tus claves privadas para proteger tus activos digitales.
